@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 tested by linda
 
 
@@ -5,3 +6,9 @@ tested by linda
 Test TodayiHi
 Hello
 changed by shamnad
+=======
+edited by tintu   
+Test TodayiHi
+Hello
+change by nijula
+>>>>>>> 6eba85af76882249cdfb0f7bddcc1c00f24923f2
